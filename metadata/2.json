@@ -1,0 +1,20 @@
+{
+    "name": "🔑 Industry Pass",
+    "description": "",
+    "image": "https://github.com/twireDao/w3vision/blob/main/images/2.mp4",
+    "external_url": "https://www.w3.vision/",
+    "attributes": [
+        {
+            "trait_type": "Event",
+            "value": "w3.vision"
+        },
+        {
+            "trait_type": "Type",
+            "value": "🔑 Industry Pass"
+        }, 
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
